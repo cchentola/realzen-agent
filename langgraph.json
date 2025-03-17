@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "realzen_agent": "./realzen_agent/graph.py:graph"
+  },
+  "env": ".env"
+}
